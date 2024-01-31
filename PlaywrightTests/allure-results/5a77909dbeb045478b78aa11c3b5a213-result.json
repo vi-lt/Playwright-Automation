@@ -1,0 +1,106 @@
+{
+  "uuid": "43f281ae-1711-427f-8efd-e12ea9ee24db",
+  "historyId": "5ae87e1f442d6b7f855bf6ad6d4961ef",
+  "testCaseId": "e96945c9efb025e4fd9b0c79144b41f2",
+  "fullName": "PlaywrightTests:PlaywrightTests.VerifyPage.VerifyDefaultUI()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "LTRIEUVI"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "PlaywrightTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "VerifyDefaultUI"
+    },
+    {
+      "name": "testClass",
+      "value": "VerifyPage"
+    },
+    {
+      "name": "tag",
+      "value": "UI"
+    },
+    {
+      "name": "suite",
+      "value": "Test Suite"
+    },
+    {
+      "name": "feature",
+      "value": "Feature"
+    }
+  ],
+  "links": [],
+  "name": "Verify Default UI",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "VerifyDefaultUI"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Click_APIMenu",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1706687386223,
+      "stop": 1706687386647
+    },
+    {
+      "name": "Click_MenuLeft",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [
+        {
+          "name": "nameMenu",
+          "value": "\"Browser\"",
+          "excluded": false
+        }
+      ],
+      "start": 1706687391660,
+      "stop": 1706687391735
+    }
+  ],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "6ff19b31-8069-4f4d-b095-af9497526461-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1706687384003,
+  "stop": 1706687396752
+}
